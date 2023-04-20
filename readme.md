@@ -26,6 +26,48 @@
     🚀 Feishu OpenAI 🚀
 </p>
 
+## 🥁 号外号外!
+
+大家好呀！我是[feishu-OpenAI](https://github.com/ConnectAI-E/Feishu-OpenAI)的作者River。非常兴奋地欢迎大家加入我们的[Connect-AI开源马拉松](https://fork-way.feishu.cn/base/LzPObR5YQaHSAssauDAcZdS3nuo?table=tblvKqjRYNfmoLMo&view=vewsekmPW4)活动！
+
+AIGC的热潮正在各行各业掀起巨大的变革，我们看到各大社群以”知识xx“为代表的”割韭菜“行为，不禁感到无奈。身为互联网行业的从业者,与其指点江山激扬文字，不如参与其中，感受发展。为此我们成立了下面10个课题组，并从技术可行性的基础上进行了调研，现并欢迎大家自由选择组队并加入相关的项目推进群。
+
+<p align='center' >
+    <img width="1200" alt="image" src="https://user-images.githubusercontent.com/50035229/232206534-0260de35-b0e0-4777-ae8b-0e87f14c8e9f.png">
+</p>
+
+无论您是设计师、前端工程师、后端工程师、算法工程师还是测试小伙伴，只要您对GPT技术充满热情，就可以参与到我们的开源项目中来。设计师们可以参与多个repo，优化项目的交互体验和设计风格；前端工程师可以参与每个项目的UI搭建；后端和算法工程师们则可以积极学习AI能力的使用。我们还诚邀测试小伙伴参与每次发版前的功能内测。
+
+每个项目都需要招募一个项目负责人，我们会将其指定为repo的owner。如果您愿意深度参与，可以找我报名成为负责人。当然，如果项目表上有队长名称，则代表已经招募完成。其他同学可以在业余时间参与一个或多个项目。
+
+我们的目标是为AI开源社区提供一个可持续性的生态系统，并且鼓励更多的人参与其中，共同推进AI技术的发展。后续遇到企业的定制AI开发需求，我们会优先邀请相关课题的同学参与，这样既可以帮助他们获取不错的收入，也符合开源的精神和原则。我们希望通过这样的方式，让我们的开源项目更有可持续性，让更多人愿意加入我们，共同推进AI技术的发展！
+
+预期奖励内容包括：
+  - A奖励：小队完成度奖励，鼓励小队长参与项目，能够在指定时间内完成课题规定的基本内容，队长应获得一定的奖励。
+  - B奖励：项目优秀度奖励，根据项目复杂度、组内配合度、产品创意度，以及期中和期末用户体验打分，评选出优秀项目的队长和核心队员，并给予相应奖励。
+  - C奖励：成员活跃度奖励，考虑到设计和测试身份的特殊性，无法单独带领项目。因此，我们将评选出优秀设计师和优秀测试反馈员，以表彰他们在项目中的积极参与和贡献。
+  
+做出下面奖励安排
+  - A奖励项目完成度：京东E卡300 * 10
+  - B奖励项目优秀度：
+    - 杰出奖: iPhone14 * 1 + 京东E卡300 * 3
+    - 优秀奖: PS5 * 1 + 京东E卡300 * 3
+  - C奖励成员活跃度：京东E卡300 * 4
+
+我们队员有
+- [EX-chatGPT](https://github.com/circlestarzero/EX-chatGPT)和[ChatPaper的维护者](https://github.com/kaixindelele/ChatPaper)-->[cc](https://github.com/circlestarzero)
+- [钉钉GPT的维护者](https://github.com/eryajf/chatgpt-dingtalk)-->[eryajf](https://github.com/eryajf)
+- [飞书GPT的维护者](https://github.com/Leizhenpeng/feishu-chatgpt)-->[river](https://space.bilibili.com/66891783)
+- [上百款在线设计插件的开发者](https://mastergo.com/community/profile/72319417503384?tab=plugin)-->山山
+- 正在心动的你！
+
+
+如果您对Connect-AI开源马拉松感兴趣，请随时加入项目推进群，一起为AI技术的未来贡献力量！
+
+<img width="200" alt="image" src="https://user-images.githubusercontent.com/50035229/232762781-e89e01ec-2ba1-48c3-a1fc-9c230a9a169c.png">
+
+
+
 ## 👻 机器人功能
 
 🗣 语音交流：私人直接与机器人畅所欲言
@@ -37,6 +79,8 @@
 🛖 场景预设：内置丰富场景列表，一键切换AI角色
 
 🎭 角色扮演：支持场景模式，增添讨论乐趣和创意
+
+🤖 AI模式：内置4种AI模式，感受AI的智慧与创意
 
 🔄 上下文保留：回复对话框即可继续同一话题讨论
 
@@ -64,13 +108,15 @@
 
 🍊 私有数据训练：利用公司产品信息对GPT二次训练，更好地满足客户个性化需求 🚧
 
+
+
 ## 🌟 项目特点
 
-- 🍏 基于 OpenAI-[gpt-3.5-turbo](https://platform.openai.com/account/api-keys) 接口
-- 🍎 通过 lark，将 ChatGPT 接入[飞书](https://open.feishu.cn/app)
+- 🍏 对话基于 OpenAI-[gpt-3.5-turbo](https://platform.openai.com/account/api-keys) 接口
+- 🍎 通过 lark，将 ChatGPT 接入[飞书](https://open.feishu.cn/app)和[飞书国际版](https://www.larksuite.com/)
 - 🥒
   支持[Serverless 云函数](https://github.com/serverless-devs/serverless-devs)、[本地环境](https://dashboard.cpolar.com/login)、[Docker](https://www.docker.com/)、[二进制安装包](https://github.com/Leizhenpeng/feishu-chatgpt/releases/)
-  多种渠道部署
+  等多种渠道部署
 - 🍋 基于[goCache](https://github.com/patrickmn/go-cache)内存键值对缓存
 
 ## 项目部署
@@ -215,12 +261,12 @@ s deploy
     <summary>使用 Railway 平台一键部署</summary>
 
 
-Railway 是一家国外的 Serverless 平台，支持多种语言，可以一键将 Github 上的代码仓库部署到 Railway 平台，然后在 Railway
+Railway 是一家国外的 Serverless 平台，支持多种语言，可以一键将 GitHub 上的代码仓库部署到 Railway 平台，然后在 Railway
 平台上配置环境变量即可。部署本项目的流程如下：
 
 #### 1. 生成 Railway 项目
 
-点击下方按钮即可创建一个对应的 Railway 项目，其会自动 Fork 本项目到你的 Github 账号下。
+点击下方按钮即可创建一个对应的 Railway 项目，其会自动 Fork 本项目到你的 GitHub 账号下。
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/10D-TF?referralCode=oMcVS2)
 
@@ -290,7 +336,35 @@ dockerproxy.com/leizhenpeng/feishu-chatgpt:latest
 卡片回调地址: http://IP:9000/webhook/card
 
 把它填入飞书后台
-<br>
+
+--- 
+
+部署azure版本
+
+```bash
+docker build -t feishu-chatgpt:latest .
+docker run -d --name feishu-chatgpt -p 9000:9000 \
+--env APP_ID=xxx \
+--env APP_SECRET=xxx \
+--env APP_ENCRYPT_KEY=xxx \
+--env APP_VERIFICATION_TOKEN=xxx \
+--env BOT_NAME=chatGpt \
+--env AZURE_ON=true \
+--env AZURE_API_VERSION=xxx \
+--env AZURE_RESOURCE_NAME=xxx \
+--env AZURE_DEPLOYMENT_NAME=xxx \
+--env AZURE_OPENAI_TOKEN=xxx \
+feishu-chatgpt:latest
+```
+
+注意:
+
+- `BOT_NAME` 为飞书机器人名称，例如 `chatGpt`
+- `AZURE_ON` 为是否使用azure ,请填写 `true`
+- `AZURE_API_VERSION` 为azure api版本 例如 `2023-03-15-preview`
+- `AZURE_RESOURCE_NAME` 为azure 资源名称 类似 `https://{AZURE_RESOURCE_NAME}.openai.azure.com`
+- `AZURE_DEPLOYMENT_NAME` 为azure 部署名称 类似 `https://{AZURE_RESOURCE_NAME}.openai.azure.com/deployments/{AZURE_DEPLOYMENT_NAME}/chat/completions`
+- `AZURE_OPENAI_TOKEN` 为azure openai token
 
 </details>
 
@@ -321,7 +395,8 @@ docker compose down
 <br>
 
 1. 进入[release 页面](https://github.com/Leizhenpeng/feishu-chatgpt/releases/) 下载对应的安装包
-2. 解压安装包,修改 config.example.yml 中配置信息,另存为 config.yml
+2. 解压安装包,修改 config.example.yml 中配置信息,另存为 config.yaml
+3. 目录下添加文件 `role_list.yaml`，自定义角色，可以从这里获取：[链接](https://github.com/Leizhenpeng/feishu-chatgpt/blob/master/code/role_list.yaml)
 3. 运行程序入口文件 `feishu-chatgpt`
 
 事件回调地址: http://IP:9000/webhook/event
@@ -344,6 +419,7 @@ docker compose down
       <img src='https://user-images.githubusercontent.com/50035229/223944230-aff586be-31cc-40de-9b1a-7d4e259d54dd.png' alt='' width='800'/>
       <img src='https://user-images.githubusercontent.com/50035229/223944350-917d115c-6c82-4d8b-9ec8-b5c82331a2dc.png' alt='' width='800'/>
       <img src='https://user-images.githubusercontent.com/50035229/223944381-97396156-f5e2-467f-aaf6-b1f6e1c446b2.png' alt='' width='800'/>
+      <img src='https://user-images.githubusercontent.com/50035229/230003546-36450f2f-b6e9-4292-8b40-3a4aa8a05a64.png' alt='' width='800'/>
       <img src='https://user-images.githubusercontent.com/50035229/223945122-f7ab3d9a-6742-43d2-970e-ddb0f284c7fa.png' alt='' width='800'/>
       <img src='https://user-images.githubusercontent.com/50035229/223944507-8d1a08d7-8b5b-4f32-a90d-fd338164ec82.png' alt='' width='800'/>
       <img src='https://user-images.githubusercontent.com/50035229/223944515-fb505e84-c840-484a-8df5-612f60bf27ea.png' alt='' width='800'/>
@@ -351,7 +427,8 @@ docker compose down
     </p>
 </details>
 
-- 获取 [OpenAI](https://platform.openai.com/account/api-keys) 的 KEY
+
+- 获取 [OpenAI](https://platform.openai.com/account/api-keys) 的 KEY( 🙉 下面有免费的 KEY 供大家测试部署 )
 - 创建 [飞书](https://open.feishu.cn/) 机器人
     1. 前往[开发者平台](https://open.feishu.cn/app?lang=zh-CN)创建应用,并获取到 APPID 和 Secret
     2. 前往`应用功能-机器人`, 创建机器人
@@ -381,13 +458,24 @@ docker compose down
 
 更多介绍，参考[飞书上的小计算器: Go 机器人来啦](https://www.bilibili.com/video/BV12M41187rV/)
 
+## 免费 Openai_Key
+
+<a href='https://freeopenai.xyz/' >
+<img src='https://user-images.githubusercontent.com/50035229/229976556-99e8ac26-c8c3-4f56-902d-a52a7f2e50d5.png' alt='' width='330'/>
+</a>
+
+这里有些[免费的OpenAI Key](https://freeopenai.xyz/), 大家可测试使用。
+
+
 ## 更多交流
+
 
 如需协助部署，或者其他定制服务，可联系下面的WeChat，支持发票~
 
 遇到问题，可以加入飞书群沟通~
 
-<img src='./docs/talk.png' alt='' width='200'/>
+
+<img src='https://user-images.githubusercontent.com/13283837/232570671-1058555f-c9e5-4f64-889b-1d8efd0101ba.png' alt='' width='200'/>
 
 ## 交朋友 或者 鼓励一下
 
